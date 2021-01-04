@@ -16,7 +16,7 @@ Challenge realized @BeCode
 
 ### The mission
 You will reproduce the architecture of your collegues. Here it is:
-
+```
 /app
     |-docker
     |   |-Dockerfile -> your Dockerfile
@@ -28,14 +28,14 @@ You will reproduce the architecture of your collegues. Here it is:
     |   |    |-preprocessing.py -> print a numpy array
     |   |-utils
     |   |    |-utils.py -> print "in progress..."
-
+```
 ### Must-have features
-[x] A nicely commented Dockerfile
-[x] The same directory structure as above
-[x] There are no more images or containers on your system
+- [x] A nicely commented Dockerfile
+- [x] The same directory structure as above
+- [x] There are no more images or containers on your system
 
 ### Nice-to-have features
-[x] Follow the dockerfiles best practices
+- [x] Follow the dockerfiles best practices
 
 ## Usage
 To enjoy this beautiful docker's container you can use the following commands from the root directory of the project :
